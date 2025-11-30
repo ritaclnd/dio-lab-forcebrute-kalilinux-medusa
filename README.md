@@ -262,4 +262,3 @@ Este projeto demonstra, em laboratório seguro:
 * Password spraying e enumeração
 * Boas práticas de mitigação
 
-Se quiser, posso **gerar isso em PDF, Word, com capas**, ou formatar como **trabalho acadêmico**, **relatório técnico** ou **passo a passo com imagens**. Quer que eu gere o documento final?
